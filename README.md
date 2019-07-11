@@ -1,9 +1,9 @@
-     <h1>  OPEN TOURIST Guide</h1>
+      OPEN TOURIST Guide
  ----------------------------------------------------------------- 
-<hr>
 
-        <h2>Overview</h2>
-        <hr>
+
+        Overview
+        
 <p>
 Discover is designed for those looking to explore the world. With a simple to use map which works on all devices you can search for hotels, bars, restaurants and more anywhere around the globe. This information contains contact details and star ratings to make your dinning, accommodation or travel decisions a smooth and user-friendly experience.
 <p>
@@ -123,7 +123,7 @@ then from there you can choose from different options.for exemple if you choose 
 
 <h2>To run the deployed website simply click the link below.</h2>
 <hr>
-<a href="">My project demo can be find here</a>
+<a href="https://frankkode.github.io/open-tourist-guide/">My project demo can be find here</a>
 <hr>
 <h2>How to Clone</h2>
 <hr>
@@ -136,7 +136,7 @@ then from there you can choose from different options.for exemple if you choose 
 <li>In a linux enviroment like cloud9 IDE type git clone then paste the URl from the clone with HTTPS</li>
 </ol>
 <ul>
-<li>For other ways to clone or other information about cloning a repository <a href="">GitHub.com</a></li>
+<li>For other ways to clone or other information about cloning a repository <a href="https://github.com/frankkode/open-tourist-guide">GitHub.com</a></li>
 </ul>
 <hr>
 <h2>Making changes</h2>
@@ -144,16 +144,16 @@ then from there you can choose from different options.for exemple if you choose 
 <ol>
 <li>From the clone you as a developer can make changes to the repository</li>
 <li>Once your changes have been testing you can set up your GitHub pages to Deploy automatically when ever you push to GitHub.</li>
-<li>In GitHub navigate to your<s> <username>.github.io</s> repository and click Settings</li>
+<li>In GitHub navigate to your<small> <username>.github.io</small> repository and click Settings</li>
 <li>Within Settings, navigate to the Source section within the GitHub Pages section. From the dropdown menu, selet master branch and then click Save.</li>
-<li>Now that your GitHub pages site is set up, you can use<s> git commit </s>and <s>git push </s>to send yours changes to GitHub.</li>
+<li>Now that your GitHub pages site is set up, you can use<small> git commit </s>and <small>git push </small>to send yours changes to GitHub.</li>
 </ol>
 <hr>
 <h2>Media</h2>
 <hr>
 <ul>
-<li>The logo used in this website were obtained from free logo maker <a href="">logofury</li>
-<li>The background image and all photos was obtained from free stock photos website <a href="">pixel</li>
+<li>The logo used in this website were obtained from free logo maker <a href="https://www.logofury.com/">logofury</a></li>
+<li>The background image and all photos was obtained from free stock photos website <a href="https://www.pexels.com/search/animal%20park/">pixel<a/></li>
 <li>maps obtained from googles map api</li>
 </ul>
 <hr>
@@ -173,4 +173,6 @@ then from there you can choose from different options.for exemple if you choose 
 <hr>
 <h2>Disclaimer</h2>
 <hr>
-<ul><li>The content used in this website is for educational purposes only.</li></ul>
+<ul>
+<li>The content used in this website is for educational purposes only.</li>
+</ul>
