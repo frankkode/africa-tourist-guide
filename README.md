@@ -52,7 +52,7 @@ then from there you can choose from different options.for exemple if you choose 
 <li>The general enquiries email form is to make direct contact with the owner for Bug reports, advertising on this site, business partnerships or general questions.</li></ul>
 <hr>
 
-<h2>Features left to implement:<h2>
+<h2>Features left to implement:</h2>
 
 <hr>
 <p>Paid advertisements</p>
@@ -72,15 +72,15 @@ then from there you can choose from different options.for exemple if you choose 
 <a href="https://fontawesome.com/icons/copyright?style=regular"><h2>Fontawasome</h2></a>
 <hr>
 <ul>The project uses fontawasome to style the website fonts.<ul>
-<ul><a>Emailjs </a></ul><br>Emailjs allows users to send emails from JavaScript.
-<ul><a>Jasmine</a></ul>
+<ul><a href="https://www.emailjs.com/">Emailjs </a></ul><br>Emailjs allows users to send emails from JavaScript.
+<ul><a href="https://jasmine.github.io/pages/getting_started.html">Jasmine</a></ul>
 <p>This project used Jasmine to automatically test all JavaScript and jQuery code.</p>
 <ul>
-<a>Google Maps JavaScript API</a>
+<a href="https://developers.google.com/maps/documentation/">Google Maps JavaScript API</a>
 </ul>
 <hr>
 
-   <h2>Testing<h2>
+   <h2>Testing</h2>
    
    </hr>
 <ul>
@@ -137,7 +137,7 @@ then from there you can choose from different options.for exemple if you choose 
 
 <hr>
 
-<h2>Using this link Github:<h2>
+<h2>Using this link Github:</h2>
 
 <hr>
 
