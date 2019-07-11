@@ -7,10 +7,15 @@ function sendMail(contactForm) {
     .then(
         function(response) {
             console.log("SUCCESS", response);
+            alert("Your message has been sent successfully");
+            document.getElementById('id01').reset();
         },
         function(error) {
             console.log("FAILED", error);
+            alert("Message was not sent");
+            document.getElementById('id01').reset();
         }
     );
     return false;  // To block from loading a new page
 }
+

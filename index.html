@@ -62,7 +62,7 @@
                         <a href="#" onclick="smoothScroll(document.getElementById('welcome'))">Hotels</a>
                     </li>
                     <li>
-                       <button onclick="document.getElementById('id01').style.display='block'" style="width:auto;"><i class="fas fa-envelope-open-text contac"></i> CONTACT US</button>
+                       <button onclick="document.getElementById('id01').style.display='block'" style="width:auto;"><i class="fas fa-envelope-open-text envellope"></i> CONTACT US</button>
 
                     </li>
                     
@@ -111,9 +111,11 @@
    
     
     <div class="welcome-section-background">
-        
+      
         <div class="overlay">
+          
             <article class="welcome-text">
+              <p><span class="brand-text"> Welcome to the Africa Tourists Guide</span>!</p>
             <i class="fas fa-language"></i>
                 <div id="google_translate_element"></div>
                 
@@ -124,7 +126,7 @@ function googleTranslateElementInit() {
 </script>
 
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-   <p><span class="brand-text"> Welcome to the Africa Tourists Guide</span>!</p>
+   
                 
             </article>
             
@@ -413,9 +415,9 @@ function googleTranslateElementInit() {
                     <input type="text" name="name" class="form-control" id="fullname" placeholder="Name" required/>
                     <input type="text" name="emailaddress" class="form-control" id="emailaddress" placeholder="Email" required/>
                     <textarea rows="5" name="projectsummary" class="form-control" id="informationsummary" placeholder="information summary" required></textarea>
-                    <button type="submit" class="sendbtn center-block">Send Email</button>
+                    <button type="submit" class="sendbtn center-block" >Send Email</button>
                     <button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">clause</button>
-        
+                    
                 </form>
             </div>
         </div>
@@ -572,12 +574,9 @@ function googleTranslateElementInit() {
   </div>
   
   
-<div class="contact-small">
-  <li>
-    <button onclick="document.getElementById('id01').style.display='block'" style="width:auto;"><i class="fas fa-envelope-open-text"></i> CONTACT US</button>
-
-  </li>
-</div>
+<span class="contacta">
+  <button onclick="document.getElementById('id01')"><i class="fas fa-envelope-open-text "></i> CONTACT US</button>
+</span>
 
  <hr class="spacer " id="section ">
 
@@ -610,6 +609,7 @@ window.onclick = function(event) {
     modal.style.display = "none";
   }
 }
+
 </script>
 
 
@@ -671,10 +671,6 @@ window.onclick = function(event) {
 
 
 
-
-
-
-
 <!-- jQuery and Javascript for site functionalities -->
 
 <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
@@ -687,22 +683,15 @@ window.onclick = function(event) {
 
 <!-- Sends emails on submit button using the contact form -->
 <script src="assets/js/sendEmail.js" async></script>
-
-<!-- Filters the radio buttons by type checked -->
 <script src="assets/js/clear.js"></script>
-<!--Link to noSubmit.js script
-    <script src="assets/js/no-submit.js"></script>
+<script src="assets/js/tests/sendMailTest.js"></script>
+<script src="assets/spec/sendMailSpec.js"></script>
 
 <!-- Load the API from the specified URL
     *The async attribute allows the browser to render the page while the API loads
     *The key parameter will contain the API key(needed in order for Google Maps to work)
     *The callback parameter executes the initMap() function -->
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyByR9BasQE0dvV0aad9lP9akLvY-3RiYaQ&libraries=places&callback=initMap" async defer></script>
-     
-
-
-
-
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
 

@@ -576,10 +576,9 @@ button {
   color: white;
   padding: 7px 20px;
   margin: 8px 0;
-  border: none;
+  border-radius: 6px;
   cursor: pointer;
- 
-  
+  margin-left: 40px;
   opacity: 0.9;
 }
 
@@ -746,13 +745,7 @@ hr {
 .btn-primary{
     background-color: green;
 }
-
-
-
-@media only screen and (min-width: 769px){
-  .contact-small {  display: none;}
+@media only screen and (max-width: 769px){
+    .contact-small {  display: none;}
 }
-@media only screen and (max-width: 766px){
-  .contac {  display: none;}
-}
-
+ 
