@@ -51,22 +51,27 @@ then from there you can choose from different options.for exemple if you choose 
 <li>The atraction sites links show users some of the top travel destinations around the africa, they are there to inspire places of tourism.</li>
 <li>The general enquiries email form is to make direct contact with the owner for Bug reports, advertising on this site, business partnerships or general questions.</li></ul>
 <hr>
+
 <h2>Features left to implement:<h2>
+
 <hr>
-<p>Paid advertisements</p><br>
-<p>connect direct to the owners of bars,restaurants so i can get commission if the customer paid throughthe web.</p><br>
+<p>Paid advertisements</p>
+<p>connect direct to the owners of bars,restaurants so i can get commission if the customer paid throughthe web.</p>
 <p>empty form after sending the email</p>
+
        <h2>Technologies Used</h2>
+       
 <p>This project uses HTML, CSS and JavaScript programming languages.</p>
+
 <ul><a href="">JQuery</a></ul>
 <ul>The project uses JQuery to simplify DOM manipulation.</ul>
 <ul>BootstrapCDN</ul>
-<p>The project uses<b> Bootstrapv4.0.1 <b>to simplify the structure of the website and make the website responsive easily.</p>
-<p>The project also uses <b>BootstrapCDN<b> to provide icons from FontAwesome</p>
+<p>The project uses<a href="https://getbootstrap.com/"><b> Bootstrapv4.3.1 <b></a>to simplify the structure of the website and make the website responsive easily.</p>
+<p>The project also uses<a href="https://www.bootstrapcdn.com/"> <b>BootstrapCDN<b></a> to provide icons from FontAwesome</p>
 <hr>
-<h2>Google Fonts</h2>
+<a href="https://fontawesome.com/icons/copyright?style=regular"><h2>Fontawasome</h2></a>
 <hr>
-<ul>The project uses Google fonts to style the website fonts.<ul>
+<ul>The project uses fontawasome to style the website fonts.<ul>
 <ul><a>Emailjs </a></ul><br>Emailjs allows users to send emails from JavaScript.
 <ul><a>Jasmine</a></ul>
 <p>This project used Jasmine to automatically test all JavaScript and jQuery code.</p>
@@ -74,7 +79,9 @@ then from there you can choose from different options.for exemple if you choose 
 <a>Google Maps JavaScript API</a>
 </ul>
 <hr>
+
    <h2>Testing<h2>
+   
    </hr>
 <ul>
 <li>The code has been written and tested in Cloud9 and Google Chrome Developer Tools.</li>
@@ -84,6 +91,7 @@ then from there you can choose from different options.for exemple if you choose 
 <li>Jasmine testing for email<li>
 <li>Email function was tested using Gmail and Emailjs.<li>
 </ul>
+
 <hr>
     <h2>Bugs fixed</h2>
     <hr>
@@ -126,18 +134,25 @@ then from there you can choose from different options.for exemple if you choose 
 <a href="https://frankkode.github.io/open-tourist-guide/">My project demo can be find here</a>
 <hr>
 <h2>How to Clone</h2>
+
 <hr>
+
 <h2>Using this link Github:<h2>
+
+<hr>
+
 <ol>
-<li>On GitHub, navigate to the main page of the repository</li
+<li>On GitHub, navigate to the main page of the repository</li>
 <li>Click Clone Or Download.</li>
 <li>On the Clone with HTTPS pop up, copy the clone URL for the repository.</li>
 <li>Change the current working directory to the location where you want the cloned directory to be made.</li>
 <li>In a linux enviroment like cloud9 IDE type git clone then paste the URl from the clone with HTTPS</li>
 </ol>
+
 <ul>
 <li>For other ways to clone or other information about cloning a repository <a href="https://github.com/frankkode/open-tourist-guide">GitHub.com</a></li>
 </ul>
+
 <hr>
 <h2>Making changes</h2>
 <hr>
