@@ -1,8 +1,8 @@
 describe("sendMail function", function() {
 
-    beforeEach(function() {
+   /* beforeEach(function() {
         let sendmail = new sendMail();
-    });
+    });*/
     describe("sendMail tests", function() {
         it("should exist", function() {
             expect(sendMail).toBeDefined();
