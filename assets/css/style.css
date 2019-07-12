@@ -92,7 +92,7 @@ header{
 
 
 .welcome-section-background {
-    background-image: url(../images/animal10.png);
+    background-image: url(../images/pyra.png);
   
     -moz-background-size: 100%;
     -webkit-background-size: 100%;
@@ -124,9 +124,15 @@ header{
 }
 
 .search-form {
-    text-align: center;
+    text-align:center;
     margin-top: 50px;
     
+    
+}
+.button-center{
+    text-align:center;
+    
+   
 }
 
 .search-bar {
@@ -138,6 +144,7 @@ header{
     font-weight: 100;
     font-size: 15px;
     padding-left: 10px;
+   
 }
 .search-bar-mini {
     border: 3px solid #BADA55;
@@ -153,7 +160,7 @@ header{
 
 /* end nav bar and calling*/
 
-/*--------------------------------------------Special Paddings/Margins/Text*/
+/*Special Paddings/Margins/Text*/
 
 
 .uppercase {
@@ -180,7 +187,7 @@ header{
 }
 
 
-/*--------------------------------------------Heading*/
+/*Heading*/
 
 
 
@@ -198,14 +205,12 @@ header{
     border-color: black;
 }
 
-/*----------------------------------------youtube*/
 
-
-/*--------------------- attractions/accomodation/bars */
+/* attractions/accomodation/bars */
 
 .searchButton {
-    border-radius: 8px;
-    width: 20%;
+    border-radius: 6px;
+    width: 30%;
     justify-content: center;
     margin: 0 auto;
     text-align: center;
@@ -214,7 +219,7 @@ header{
 }
 
 .btn-group {
-    border-radius: 8px;
+    border-radius: 6px;
     width: 100%;
     justify-content: center;
     margin: 0 -8px;
@@ -266,7 +271,7 @@ header{
 }
 
 
-/*------------------- search bar and country options -----*/
+/*- search bar and country options --*/
 
 table {
     font-size: 12px;
@@ -300,7 +305,7 @@ table {
     font-family: "Open Sans Condensed", sans-serif;
     font-weight: 100;
     font-size: 15px;
-    text-align: center;
+    text-align:center;
     display: inline;
     
     
@@ -333,13 +338,7 @@ table {
     font-family: "Open Sans Condensed", sans-serif;
     font-weight: 100;
     font-size: 15px;
-    
-    
-    
-     
-     
-   
-    
+  
 }
 
 #country {
@@ -384,7 +383,7 @@ table {
     text-align: right;
 }
 
-/*-----------------------------------radio options*/
+/*radio options*/
 
 #placestoggle {
 text-align: center;
@@ -527,17 +526,14 @@ input[name="option"] {
 }
 /* search button*/
 .first{
-    text-decoration: none;
-    
-    padding: 5px 21px;
     background: #62bb44;
     color: #eee;
-    
-    text-align: center;
+    text-align:center;
     border-top: 2px solid #815444;
     border-right: 2px solid #3d1000;
     border-bottom: 2px solid #3d1000;
     border-left: 2px solid #815444;
+   
 }
 
 .first:hover{
@@ -586,6 +582,7 @@ button {
 
 button:hover {
   opacity:1;
+  background-color: blue;
 }
 
 /* Extra styles for the cancel button */
@@ -747,7 +744,3 @@ hr {
 .btn-primary{
     background-color: green;
 }
-@media only screen and (max-width: 769px){
-    .contact-small {  display: none;}
-}
- 

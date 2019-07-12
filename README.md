@@ -1,4 +1,4 @@
-      OPEN TOURIST Guide
+      AFRICA TOURISTS GUIDE
  ----------------------------------------------------------------- 
 
 
@@ -46,7 +46,7 @@ then from there you can choose from different options.for exemple if you choose 
   <h2>Features:</h2>
   <hr>
 <ul>
-<li>Discover uses Google Maps api which displays the maps of their Searched country and city in either the website window view or they can choose to go full screen.<li>
+<li>Africa tourists guide uses Google Maps api which displays the maps of their Searched country and city in either the website window view or they can choose to go full screen.<li>
 <li>By also using Google Places api, Discover allows users to choose one of the selectors to search different options in their desired location e.g. Australia / Brisbane/ Hotel.</li>
 <li>The atraction sites links show users some of the top travel destinations around the africa, they are there to inspire places of tourism.</li>
 <li>The general enquiries email form is to make direct contact with the owner for Bug reports, advertising on this site, business partnerships or general questions.</li></ul>
@@ -177,6 +177,9 @@ then from there you can choose from different options.for exemple if you choose 
 <ul>
 <li>JavaScript Code snippets used for Maps, markers and clearing the markers from Google maps api website</li>
 <li>HTML for forms, tables and iframes used were obtained from bootstrap libarires website.</li>
+<li>The logo used in this website were obtained from free logo maker <a href="https://www.logofury.com/">logofury</a></li>
+<li>The background image and all photos was obtained from free stock photos website <a href="https://www.pexels.com/search/animal%20park/">pixel<a/></li>
+
 </ul>
 <hr>
 <h2>Acknowledgements</h2>
