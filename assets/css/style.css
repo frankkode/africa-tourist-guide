@@ -14,9 +14,12 @@ nav ,navbar-default{
 }
 
 body {
-    font-family: Roboto, sans-serif;
+    
     margin:0px;
     z-index: 1030;
+    font-family: 'Tangerine', serif;
+  
+  text-shadow: 4px 4px 4px #aaa;
    
 
 }
