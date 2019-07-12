@@ -47,7 +47,7 @@ then from there you can choose from different options.for exemple if you choose 
   <hr>
 <ul>
 <li>Africa tourists guide uses Google Maps api which displays the maps of their Searched country and city in either the website window view or they can choose to go full screen.<li>
-<li>By also using Google Places api, Discover allows users to choose one of the selectors to search different options in their desired location e.g. Australia / Brisbane/ Hotel.</li>
+<li>By also using Google Places api, Discover allows users to choose one of the selectors to search different options in their desired location e.g. Rwanda / Kigali/ Hotel.</li>
 <li>The atraction sites links show users some of the top travel destinations around the africa, they are there to inspire places of tourism.</li>
 <li>The general enquiries email form is to make direct contact with the owner for Bug reports, advertising on this site, business partnerships or general questions.</li></ul>
 <hr>
@@ -59,7 +59,10 @@ then from there you can choose from different options.for exemple if you choose 
 <p>connect direct to the owners of bars,restaurants so i can get commission if the customer paid throughthe web.</p>
 <p>empty form after sending the email</p>
 
-       <h2>Technologies Used</h2>
+<hr>
+
+     
+   <h2>Technologies Used </h2>     
        
 <p>This project uses HTML, CSS and JavaScript programming languages.</p>
 
