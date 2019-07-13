@@ -41,13 +41,7 @@ then from there you can choose from different options.for exemple if you choose 
 <ol><li>I am able to directly contact the owner to enquire about paid advertising.</li></ol>
      <h2>Wireframes</h2>
      <hr>
-wireframe mock-up
-
-
-
-![alt text](https://raw.githubusercontent.com/frankkode/open-tourist-guide/master/assets/images/wire-frame.png)
-
-
+<a href="https://github.com/frankkode/open-tourist-guide/blob/master/assets/images/wire-frame.png"> wireframe mock-up</a>
 
 
 <hr>
