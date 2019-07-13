@@ -11,7 +11,7 @@ var countries = {
     zoom: 4
   },
   'sa': {
-    center: { lat: -30.559483, lng: 22.937506 },
+    center: { lat: -28.4792625 , lng: 24.6727135},
     zoom: 3
   },
   'ma': {
@@ -190,10 +190,7 @@ var countries = {
     center: { lat: 7.946527, lng: -1.023194 },
     zoom: 3
   },
-  'sa': {
-    center: { lat: -30.559483, lng: 22.937506 },
-    zoom: 3
-  },
+  
   'nm': {
     center: { lat: -22.565220, lng: 17.084300 },
     zoom: 3

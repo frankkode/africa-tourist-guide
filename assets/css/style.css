@@ -88,8 +88,33 @@ header{
     font-size: 40px;
 }
 
+/*test*/
+
+video#bgvid {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  overflow: hidden;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -100;
+  -ms-transform: translateX(-50%) translateY(-50%);
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+}
+.orange{
+    color: orange;
+}
+.white{
+    color: white;
+}
 
 
+
+/* end test*/
 
 .welcome-section-background {
     background-image: url(../images/pyra.png);
@@ -719,10 +744,10 @@ hr {
     text-align: center;
 }
 .text-red{
-    color: green;
+    color: red;
 }
 .text-red:hover{
-    color: red;
+    color: green;
 }
 .information{
     width: auto;
@@ -743,4 +768,14 @@ hr {
 }
 .btn-primary{
     background-color: green;
+}
+
+.img {
+    position: relative;
+    float: left;
+    width:  100px;
+    height: 700px;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
 }
