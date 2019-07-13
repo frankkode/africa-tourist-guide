@@ -70,21 +70,42 @@ then from there you can choose from different options.for exemple if you choose 
        
 <p>This project uses HTML, CSS and JavaScript programming languages.</p>
 
-<ul><li><a href="https://api.jquery.com/submit-selector/">JQuery</a></li></ul>
+<ul>
+<li>
+<a href="https://api.jquery.com/submit-selector/">JQuery</a>
+</li>
+</ul>
 <ul>-The project uses <strong> JQuery</strong> to simplify DOM manipulation.</ul>
-<ul><li><a href="https://getbootstrap.com/">Bootstrap</a></li></ul>
+<ul>
+<li>
+<a href="https://getbootstrap.com/">Bootstrap</a>
+</li>
+</ul>
 <p>The project uses<a href="https://getbootstrap.com/"><b> Bootstrapv4.3.1 </b></a>to simplify the structure of the website and make the website responsive easily.</p>
 <p>The project also uses<a href="https://www.bootstrapcdn.com/"> <b>BootstrapCDN</b></a> to provide icons from FontAwesome</p>
 
-<ul><li><a href="https://fontawesome.com/icons/copyright?style=regular">Fontawasome</a></li></ul>
-
-<ul>- The project uses fontawasome to style the website fonts.<ul>
-<ul><li><a href="https://www.emailjs.com/">Emailjs </a></li></ul>
+<ul>
+<li>
+<a href="https://fontawesome.com/icons/copyright?style=regular">Fontawasome</a>
+</li>
+</ul>
+<p>- The project uses fontawasome to style the website fonts.</p>
+<ul>
+<li>
+<a href="https://www.emailjs.com/">Emailjs </a>
+</li>
+</ul>
  <ul>-Emailjs allows users to send emails from JavaScript.</ul>
-<ul><li><a href="https://jasmine.github.io/pages/getting_started.html">Jasmine</a></li></ul>
+<ul>
+<li>
+<a href="https://jasmine.github.io/pages/getting_started.html">Jasmine</a>
+</li>
+</ul>
 <ul>-This project used Jasmine to automatically test all JavaScript and jQuery code.</ul>
 <ul>
-<li><a href="https://developers.google.com/maps/documentation/">Google Maps JavaScript API</a></li>
+<li>
+<a href="https://developers.google.com/maps/documentation/">Google Maps JavaScript API</a>
+</li>
 </ul>
 <hr>
 
