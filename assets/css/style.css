@@ -316,7 +316,7 @@ table {
     height: 470px;
     overflow: auto;
     left: 60px;
-    top: 920px;
+    top: 1020px;
     cursor: pointer;
     overflow-x: hidden;
 }
@@ -771,7 +771,7 @@ hr {
     position: relative;
     float: left;
     width:  100px;
-    height: 700px;
+    height: 800px;
     background-position: 50% 50%;
     background-repeat:   no-repeat;
     background-size:     cover;
