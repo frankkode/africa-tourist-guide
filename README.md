@@ -49,7 +49,7 @@ then from there you can choose from different options.for exemple if you choose 
   <h2>Features:</h2>
   <hr>
 <ul>
-<li>Africa tourists guide uses Google Maps api which displays the maps of their Searched country and city in either the website window view or they can choose to go full screen.<li>
+<li>Africa tourists guide uses Google Maps api which displays the maps of their Searched country and city in either the website window view or they can choose to go full screen.</li>
 <li>By also using Google Places api, Discover allows users to choose one of the selectors to search different options in their desired location e.g. Rwanda / Kigali/ Hotel.</li>
 <li>The atraction sites links show users some of the top travel destinations around the africa, they are there to inspire places of tourism.</li>
 <li>The general enquiries email form is to make direct contact with the owner for Bug reports, advertising on this site, business partnerships or general questions.</li>
@@ -107,21 +107,25 @@ then from there you can choose from different options.for exemple if you choose 
    <h2>Testing</h2>
    
    </hr>
-
-<li>The code has been written and tested in Cloud9 and Google Chrome Developer Tools.</li>
+<ul>
+<li>The code has been written and tested in Cloud9 and Google Chrome Developer Tools</li>
 <li>HTML code has been tested with mark-up validation service</li>
 <li>CSS code has been tested with CSS validation service</li>
 <li>Javascript and jQuery code has been tested using JSLint</li>
-<li>Email function was tested using Gmail and Emailjs.<li>
+<li>Email function was tested using Gmail and Emailjs</li>
+<li>The code has been tested on Google Chrome</li>
+<li>The code has been tested on Mozilla Firefox</li>
+<li>The code has been tested on safari</li>
+</ul>
 
 <hr>
     <h2>Bugs fixed</h2>
     <hr>
 <ol>
 <li>city search bar not emptying after country dropdown changed. fixed by switch the country dropdown and search bar positions.</li>
-<li>email accepting any input fixed by using pattern=".+@" making it only accept input with @ in it.</li>
+<li>email accepting any input fixed by using pattern=".+@" making it only accept input with @ in it</li>
 <li>Testing to ensure the Googles Maps API and Google Places API have been connected to the deployed GitHub Pages. Setting both API to enabled on Google map javascript api website.</li>
-<li>markers on map not clearing after changing search area. Fixed with clearMarkers onclick function.</li>
+<li>markers on map not clearing after changing search area. Fixed with clearMarkers onclick function</li>
 <li>Markers not showing in side panel on desktop, google chrome extensions (adblocker) disabling image or marker. (adblocker needs to be allowed on the page to work)</li>
 </ol>
 <hr>
@@ -146,21 +150,30 @@ then from there you can choose from different options.for exemple if you choose 
 <hr>
  <h2>Deployment</h2>
  <hr>
-<p>In order to deploy this project, regular commits were made to the Github repository and then using Github pages I was able to deploy the website. No apparent difference between development and deployed builds.
+ 
+<p>This site is hosted using GitHub pages, deployed directly from the master branch. The deployed site will update automatically upon new commits to the master branch.
 
-I have only used one Git branch to develop and deploy this project.<a href="https://frankkode.github.io/open-tourist-guide/"> Click here to go to the website</a>
-</p>
-<hr>
+The process to deploy on GitHub page is the following:
 
-<h2>To run the deployed website simply click the link below.</h2>
-<hr>
+From "https://github.com/frankkode/africa-tourist-guide" , the master branch.
+Make sure the source is the master branch and publish.
+GitHub will generate the URL which is always available in the settings of the Repository
+To run locally, you can clone this repository directly into your editor by pasting git clone "https://github.com/frankkode/africa-tourist-guide" into your terminal. To do so, type git remote rm origin into the terminal.</p>
+ 
+ <hr>
+ 
+
+<h3>To run the deployed website simply click the link below.</h3>
+
 <a href="https://frankkode.github.io/open-tourist-guide/">My project demo can be find here</a>
 <hr>
 <h2>How to Clone</h2>
 
 <hr>
 
-<h2>Using this link Github:</h2>
+<p>
+Using this link Github <a href="https://github.com/frankkode/africa-tourist-guide" > "https://github.com/frankkode/africa-tourist-guide" </a> 
+</p>
 
 <hr>
 
