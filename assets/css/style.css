@@ -17,17 +17,6 @@ navbar-default {
     /* Full width */
 }
 
-body {
-
-    margin: 0px;
-    z-index: 1030;
-    font-family: 'Tangerine', serif;
-    text-shadow: 4px 4px 4px #aaa;
-
-
-}
-
-
 /* nav bar and calling*/
 
 header {
@@ -95,7 +84,7 @@ header {
     font-size: 40px;
 }
 
-/*test*/
+
 
 video#bgvid {
     position: fixed;
@@ -123,7 +112,15 @@ video#bgvid {
 
 
 
-/* end test*/
+body {
+
+    margin: 0px;
+    z-index: 1030;
+    font-family: 'Tangerine', serif;
+    text-shadow: 4px 4px 4px #aaa;
+
+
+}
 
 .welcome-section-background {
     background-image: url(../images/pyra.png);
@@ -160,14 +157,10 @@ video#bgvid {
 .search-form {
     text-align: center;
     margin-top: 50px;
-
-
 }
 
 .button-center {
     text-align: center;
-
-
 }
 
 .search-bar {
@@ -179,13 +172,12 @@ video#bgvid {
     font-weight: 100;
     font-size: 15px;
     padding-left: 10px;
-
-}
+    }
 
 
 /* end nav bar and calling*/
 
-/*Special Paddings/Margins/Text*/
+/*main page search*/
 
 .uppercase {
     text-transform: uppercase;
@@ -204,7 +196,7 @@ video#bgvid {
     margin-left: 40px;
 }
 
-/*- search bar and country options --*/
+
 
 table {
     font-size: 12px;
@@ -316,6 +308,29 @@ table {
     text-align: right;
 }
 
+/* search button*/
+
+.first {
+    background: #62bb44;
+    color: #eee;
+    text-align: center;
+    border-top: 2px solid #815444;
+    border-right: 2px solid #3d1000;
+    border-bottom: 2px solid #3d1000;
+    border-left: 2px solid #815444;
+
+}
+
+.first:hover {
+    background: #a37666;
+    color: #000;
+    border-top: 2px solid #815444;
+    border-right: 2px solid #c59888;
+    border-bottom: 2px solid #c59888;
+    border-left: 2px solid #815444;
+}
+
+
 /*radio options*/
 
 #placestoggle {
@@ -355,7 +370,7 @@ input[name="option"] {
     margin-top: 23px;
 }
 
-/* -------------------------------inquiry */
+/* inquiry */
 
 .contact {
     display: flex;
@@ -443,27 +458,6 @@ input[name="option"] {
     }
 }
 
-/* search button*/
-
-.first {
-    background: #62bb44;
-    color: #eee;
-    text-align: center;
-    border-top: 2px solid #815444;
-    border-right: 2px solid #3d1000;
-    border-bottom: 2px solid #3d1000;
-    border-left: 2px solid #815444;
-
-}
-
-.first:hover {
-    background: #a37666;
-    color: #000;
-    border-top: 2px solid #815444;
-    border-right: 2px solid #c59888;
-    border-bottom: 2px solid #c59888;
-    border-left: 2px solid #815444;
-}
 
 
 /* madal*/
@@ -539,19 +533,19 @@ button:hover {
 
 .modal {
     display: none;
-    /* Hidden by default */
+  
     position: fixed;
-    /* Stay in place */
+   
     z-index: 1;
-    /* Sit on top */
+   
     left: 0;
     top: 0;
     width: 100%;
-    /* Full width */
+   
     height: 100%;
-    /* Full height */
+   
     overflow: auto;
-    /* Enable scroll if needed */
+  
     background-color: #474e5d;
     padding-top: 50px;
 
@@ -609,30 +603,7 @@ hr {
     }
 }
 
-
-.footer {
-    color: white;
-    background: black;
-    width: 100%;
-    height: 120px;
-    margin-bottom: 0px;
-    text-align: center;
-
-}
-
-
-.opacity {
-
-    margin-right: 25px;
-    margin-top: 10px;
-    color: green;
-    text-align: center;
-}
-
-.opacity:hover {
-    color: orange;
-}
-
+/* about us*/
 .aboutafrica {
     float: left;
     width: 35%;
@@ -698,6 +669,7 @@ hr {
 .btn-primary {
     background-color: green;
 }
+/* make photo the same size*/
 
 .img {
     position: relative;
@@ -708,6 +680,28 @@ hr {
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
+}
 
 
+.footer {
+    color: white;
+    background: black;
+    width: 100%;
+    height: 120px;
+    margin-bottom: 0px;
+    text-align: center;
+
+}
+
+
+.opacity {
+
+    margin-right: 25px;
+    margin-top: 10px;
+    color: green;
+    text-align: center;
+}
+
+.opacity:hover {
+    color: orange;
 }
