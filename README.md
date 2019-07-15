@@ -11,7 +11,7 @@ Discover is designed for those looking to explore the world. With a simple to us
           <h2>UX</h2>
           <hr>
 <p>
-Open tourists guide is for users looking for an easy way to search for vacations destinations around the world, especialy in africa.
+Africa tourists guide is for users looking for an easy way to search for vacations destinations around the world, especialy in africa.
 it allows users to choose language,choose a Country selector and city input search bar then the results shows on the map different Locations,airports, Attractions, Accommodation,Banks , Restaurants, Bars.
 after pressing the button (search) the search will take him or her to location.
 then from there you can choose from different options.for exemple if you choose Hotels,all hotels in that city and around will be shown all with contact details and useful information.
@@ -33,7 +33,7 @@ then from there you can choose from different options.for exemple if you choose 
 </ol>
 <ul>As a user looking to ‘hotels’ through the Africa I can use the ‘hotels’ selector and find hotels,restaurants, bars in the location of interest.</ul>
 <ol>
-<li>Starting in the city I can search bar after bar using OPEN tourists guide to find all the top star rated bars around.</li>
+<li>Starting in the city I can search the bars using Africa tourists guide to find all the top star rated bars around.</li>
 <li>I can choose my hotel which is suited to the spot with higher class bars.</li>
 <li>Using the Restaurants selector to dine while out on the town.</li>
 </ol>
@@ -60,7 +60,7 @@ then from there you can choose from different options.for exemple if you choose 
 
 <hr>
 <p>. Paid advertisements</p>
-<p>. connect direct to the owners of bars,restaurants so i can get commission if the customer paid throughthe web.</p>
+<p>. connect direct to the owners of bars,restaurants so i can get commission when the customer paid throughthe the web.</p>
 <p>. empty form after sending the email</p>
 
 <hr>
@@ -96,16 +96,11 @@ then from there you can choose from different options.for exemple if you choose 
 </li>
 </ul>
  <ul>-Emailjs allows users to send emails from JavaScript.</ul>
+
 <ul>
-<li>
-<a href="https://jasmine.github.io/pages/getting_started.html">Jasmine</a>
-</li>
-</ul>
-<ul>-This project used Jasmine to automatically test all JavaScript and jQuery code.</ul>
-<ul>
-<li>
-<a href="https://developers.google.com/maps/documentation/">Google Maps JavaScript API</a>
-</li>
+    <li>
+    <a href="https://developers.google.com/maps/documentation/">Google Maps JavaScript API</a>
+    </li>
 </ul>
 <hr>
 
@@ -117,7 +112,6 @@ then from there you can choose from different options.for exemple if you choose 
 <li>HTML code has been tested with mark-up validation service</li>
 <li>CSS code has been tested with CSS validation service</li>
 <li>Javascript and jQuery code has been tested using JSLint</li>
-<li>Jasmine testing for email<li>
 <li>Email function was tested using Gmail and Emailjs.<li>
 
 <hr>
